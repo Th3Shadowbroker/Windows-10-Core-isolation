@@ -1,4 +1,4 @@
-## Windows 10
+## Windows 10 - Core isolation Registry patches
 The registry files were made to enable or disable the
 core-isolation on your Windows pc. 
 
